@@ -11,4 +11,4 @@ Inteligência Artificial Fundamentos 2.0: https://www.datascienceacademy.com.br/
 
 Microsoft Power BI Para Data Science, Versão 2.0: https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-data-science
 
-EBAC ONLINE HTML e CSS: https://www.youtube.com/watch?v=xYKblS16stY
+Video 1 - EBAC ONLINE HTML e CSS: https://www.youtube.com/watch?v=xYKblS16stY
