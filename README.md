@@ -12,16 +12,16 @@
 
 * [Video 1 - EBAC ONLINE HTML e CSS](https://www.youtube.com/watch?v=xYKblS16stY) - 0%
 
-* [Linguagem C - Básico - 4 Hora(s).](https://alunos.workover.com.br/courses/523) - 100%
+* [Linguagem C - Básico - 4 Hora(s).](https://alunos.workover.com.br/courses/523) - 100% - [Certificado](https://github.com/TiTiZinhoO/Certificados/blob/main/lionguagem%20C%20basico.pdf)
 
-* [Introdução à Ciência de Dados - 60 hora(s).](https://nc-www5.fgv.br/cursosgratuitos/default_html5.aspx) - 100%
+* [Introdução à Ciência de Dados - 60 hora(s).](https://nc-www5.fgv.br/cursosgratuitos/default_html5.aspx) - 100% - [Certificado](https://github.com/TiTiZinhoO/Certificados/blob/main/INTRODU%C3%87%C3%83O%20%C3%80%20CI%C3%8ANCIA%20DE%20DADOS.pdf)
 
-* [Fundamentos da Gestão de TI - 5 hora(s).](https://nc-www5.fgv.br/cursosgratuitos/default_html5.aspx) - 100%
+* [Fundamentos da Gestão de TI - 5 hora(s).](https://nc-www5.fgv.br/cursosgratuitos/default_html5.aspx) - 100% - [Certificado](https://github.com/TiTiZinhoO/Certificados/blob/main/FUNDAMENTOS%20DA%20GEST%C3%83O%20DE%20TI.pdf)
 
-* [Informática com Sérgio Koch - 23 Horas e 13 minutos](https://cursa.app/pt/curso-gratuito/informatica-com-sergio-koch) - 100%
+* [Informática com Sérgio Koch - 23 Horas e 13 minutos](https://cursa.app/pt/curso-gratuito/informatica-com-sergio-koch) - 100% - [Certificado](https://github.com/TiTiZinhoO/Certificados/blob/main/informatica%20com%20sergio%20koch.pdf)
 
-* [Eletrônica básica por Eletrônica Já! - 5 horas e 49 minutos.](https://cursa.app/pt/curso-gratuito/eletronica-basica-por-eletronica-ja) - 100%
+* [Eletrônica básica por Eletrônica Já! - 5 horas e 49 minutos.](https://cursa.app/pt/curso-gratuito/eletronica-basica-por-eletronica-ja) - 100% - [Certificado](https://github.com/TiTiZinhoO/Certificados/blob/main/certificado%20eletronica%20cursa.pdf)
 
-* [Algoritmo e lógica de programação em C por Escola TI - 1 horas 48 minutos.](https://cursa.app/pt/curso-gratuito/algoritmo-e-logica-de-programacao-em-c-por-escola-ti) - 100%
+* [Algoritmo e lógica de programação em C por Escola TI - 1 horas 48 minutos.](https://cursa.app/pt/curso-gratuito/algoritmo-e-logica-de-programacao-em-c-por-escola-ti) - 100% - [Certificado](https://github.com/TiTiZinhoO/Certificados/blob/main/algoritimo%20e%20logica%20de%20programa%C3%A7%C3%A3o%20escola%20de%20TI.pdf)
 
 * []()
