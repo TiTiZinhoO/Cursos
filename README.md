@@ -14,4 +14,14 @@
 
 * [Linguagem C - Básico](https://alunos.workover.com.br/courses/523) - 100%
 
+* [Introdução à Ciência de Dados](https://nc-www5.fgv.br/cursosgratuitos/default_html5.aspx) - 100%
+
+* [Fundamentos da Gestão de TI](https://nc-www5.fgv.br/cursosgratuitos/default_html5.aspx) - 100%
+
+* [Informática com Sérgio Koch](https://cursa.app/pt/curso-gratuito/informatica-com-sergio-koch) - 100%
+
+* [Eletrônica básica por Eletrônica Já!](https://cursa.app/pt/curso-gratuito/eletronica-basica-por-eletronica-ja) - 100%
+
+* [Algoritmo e lógica de programação em C por Escola TI](https://cursa.app/pt/curso-gratuito/algoritmo-e-logica-de-programacao-em-c-por-escola-ti) - 100%
+
 * []()
