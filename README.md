@@ -6,8 +6,10 @@
 
 * [Big Data Fundamentos 3.0](https://www.datascienceacademy.com.br/path-player?courseid=big-data-fundamentos-3&unit=60ec7988e32fc3e4f31ce5cbUnit)
 
+* [Big Data Fundamentos 3.0](https://www.datascienceacademy.com.br/path-player?courseid=big-data-fundamentos-3&unit=60ec7988e32fc3e4f31ce5cbUnit)
 
-Big Data Fundamentos 3.0: https://www.datascienceacademy.com.br/path-player?courseid=big-data-fundamentos-3&unit=60ec7988e32fc3e4f31ce5cbUnit
+
+
 
 Inteligência Artificial Fundamentos 2.0: https://www.datascienceacademy.com.br/path-player?courseid=inteligencia-artificial-fundamentos&unit=60f61105e32fc34ee0553af5Unit
 
