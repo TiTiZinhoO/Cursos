@@ -1,7 +1,7 @@
 # Cursos
 <h1 align="center"> Cursos em andamento </h1>
 
-* [35% - Python Fundamentos Para Análise de Dados 3.0](#https://www.datascienceacademy.com.br/course/python-fundamentos)
+* [35% - Python Fundamentos Para Análise de Dados 3.0](https://www.datascienceacademy.com.br/course/python-fundamentos)
 
 
 35% - Python Fundamentos Para Análise de Dados 3.0: https://www.datascienceacademy.com.br/course/python-fundamentos
