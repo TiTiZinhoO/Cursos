@@ -12,6 +12,6 @@
 
 * [Video 1 - EBAC ONLINE HTML e CSS](https://www.youtube.com/watch?v=xYKblS16stY)
 
-* [Linguagem C - Básico](https://alunos.workover.com.br/courses/523)
+* [Linguagem C - Básico](https://alunos.workover.com.br/courses/523) - 100%
 
 * []()
