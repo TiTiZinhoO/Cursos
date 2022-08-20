@@ -16,7 +16,7 @@
 
 * [Introdução à Ciência de Dados](https://nc-www5.fgv.br/cursosgratuitos/default_html5.aspx) - 100%
 
-* [Fundamentos da Gestão de TI](https://nc-www5.fgv.br/cursosgratuitos/default_html5.aspx) - 100%
+* [Fundamentos da Gestão de TI - 5Hora(s).](https://nc-www5.fgv.br/cursosgratuitos/default_html5.aspx) - 100%
 
 * [Informática com Sérgio Koch](https://cursa.app/pt/curso-gratuito/informatica-com-sergio-koch) - 100%
 
