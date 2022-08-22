@@ -29,3 +29,5 @@
 * [Linguagem C - Básico - 4 Hora(s).](https://alunos.workover.com.br/courses/523) - 100% - [Certificado](https://github.com/TiTiZinhoO/Certificados/blob/main/lionguagem%20C%20basico.pdf)
 
 * [Introdução à Ciência de Dados 3.0 - 12 hora(s).](https://www.datascienceacademy.com.br/path-player?courseid=intro-ciencia-de-dados-3&unit=61082006e32fc3b2ed213fddUnit) - 100% - [Certificado](https://github.com/TiTiZinhoO/Certificados/blob/main/Introdu%C3%A7%C3%A3o%20a%20ciencia%20de%20dadsos%203.0%20Data%20Science%20Academy.pdf)
+
+* []()
