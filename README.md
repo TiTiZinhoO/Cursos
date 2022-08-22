@@ -10,6 +10,8 @@
 
 * [Video 1 - EBAC ONLINE HTML e CSS](https://www.youtube.com/watch?v=xYKblS16stY) - 0%
 
+* [Aula 01 - Dashboard de Logística - Acelerador de Carreira com Power BI](https://www.youtube.com/watch?v=kDRUcyvV30Q) - 0%
+
 * []()
 
 <h1 align="center"> Cursos Completos </h1>
