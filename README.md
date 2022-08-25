@@ -10,7 +10,7 @@
 
 * [Video 1 - EBAC ONLINE HTML e CSS](https://www.youtube.com/watch?v=xYKblS16stY) - 20%
 
-* [Aula 02 - Acelerador de Carreira com Power BI](https://www.youtube.com/watch?v=5n1oAbM5PYM) - 75%
+* [Acelerador de Carreira com Power BI 3/4 Dias](https://www.youtube.com/watch?v=5n1oAbM5PYM) - 75%
 
 * []()
 
