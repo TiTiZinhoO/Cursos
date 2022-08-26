@@ -8,8 +8,6 @@
 
 * [Microsoft Power BI Para Data Science, Versão 2.0 - 72 Hora(s).](https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-data-science) - 0%
 
-* [Video 1 - EBAC ONLINE HTML e CSS](https://www.youtube.com/watch?v=xYKblS16stY) - 20%
-
 * []()
 
 <h1 align="center"> Cursos Completos </h1>
