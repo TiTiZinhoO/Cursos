@@ -10,6 +10,8 @@
 
 * []()
 
+* [Intensivão de Ciência de Dados HashTag](https://www.youtube.com/watch?v=PRAk4J4IU5Q) - 25%
+
 <h1 align="center"> Cursos Completos </h1>
 
 * [Algoritmo e lógica de programação em C por Escola TI - 1 horas 48 minutos.](https://cursa.app/pt/curso-gratuito/algoritmo-e-logica-de-programacao-em-c-por-escola-ti) - 100% - [Certificado](https://github.com/TiTiZinhoO/Certificados/blob/main/algoritimo%20e%20logica%20de%20programa%C3%A7%C3%A3o%20escola%20de%20TI.pdf)
