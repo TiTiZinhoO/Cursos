@@ -8,7 +8,7 @@
 
 * [Microsoft Power BI Para Data Science, Versão 2.0 - 72 Hora(s).](https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-data-science) - 0%
 
-* [Intensivão de Ciência de Dados HashTag](https://www.youtube.com/watch?v=PRAk4J4IU5Q) - 25%
+* [Intensivão de Ciência de Dados HashTag](https://www.youtube.com/watch?v=PRAk4J4IU5Q) - 75%
 
 * []()
 
