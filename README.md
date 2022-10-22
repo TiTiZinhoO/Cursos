@@ -32,7 +32,6 @@
 
 * [Acelerador de Carreira com Power BI](https://www.youtube.com/watch?v=5n1oAbM5PYM) - 100% [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/Certificado%20Acelerador%20de%20carreira%20power%20bi%20-%20empowerdata.pdf)
 
-* []()
 <h1 align="center"> Sites para estudar </h1>
 
 * [Data Science Academy](https://www.datascienceacademy.com.br/)
