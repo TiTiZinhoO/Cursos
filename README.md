@@ -1,5 +1,7 @@
 <h1 align="center"> Cursos em andamento </h1>
 
+* [Java primeiros passos: Lógica de Programação e Algoritmos (Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/learn/lecture/11646532#overview)
+
 * [Python Fundamentos Para Análise de Dados 3.0 - 60 Hora(s).](https://www.datascienceacademy.com.br/course/python-fundamentos) - 73% 
 
 * [Big Data Fundamentos 3.0 - 12Hora(s).](https://www.datascienceacademy.com.br/path-player?courseid=big-data-fundamentos-3&unit=60ec7988e32fc3e4f31ce5cbUnit) - 0%
