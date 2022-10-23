@@ -12,6 +12,8 @@
 
 * [Microsoft Power BI Para Data Science, Versão 2.0 - 72 Hora(s).](https://www.datascienceacademy.com.br/path-player?courseid=microsoft-power-bi-para-data-science) - 0%
 
+* [Curso de Inglês - Kultivi](https://app.kultivi.com/dashboard/course/ingles/lesson/introducao-e-names)
+
 <h1 align="center"> Cursos Completos </h1>
 
 * [Intensivão de Ciência de Dados HashTag](https://www.youtube.com/watch?v=PRAk4J4IU5Q) - 100%
