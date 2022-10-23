@@ -42,3 +42,5 @@
 * [Workover](https://workover.com.br/)
 * [Alura](https://www.alura.com.br/)
 * [Cursa](https://cursa.app/pt)
+* [Kultivi](https://kultivi.com/)
+
