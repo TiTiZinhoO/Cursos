@@ -1,6 +1,6 @@
 <h1 align="center"> Cursos em andamento </h1>
 
-* [Java primeiros passos: Lógica de Programação e Algoritmos (Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/learn/lecture/11646532#overview) - 31%
+* [Java primeiros passos: Lógica de Programação e Algoritmos (Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/learn/lecture/11646532#overview) - 60%
 
 * [Java COMPLETO Programação Orientada a Objetos +Projetos (Nelio Alves)](https://www.udemy.com/course/java-curso-completo/) - 0%
 
