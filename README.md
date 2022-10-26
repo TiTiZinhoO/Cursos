@@ -1,7 +1,5 @@
 <h1 align="center"> Cursos em andamento </h1>
 
-* [Java primeiros passos: Lógica de Programação e Algoritmos (Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/learn/lecture/11646532#overview) - 100% - [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificado%20-%20JAVA%20fundamentos.pdf)
-
 * [Java COMPLETO Programação Orientada a Objetos +Projetos (Nelio Alves)](https://www.udemy.com/course/java-curso-completo/) - 0%
 
 * [Python Fundamentos Para Análise de Dados 3.0 - 60 Hora(s).](https://www.datascienceacademy.com.br/course/python-fundamentos) - 73% 
@@ -15,6 +13,8 @@
 * [Curso de Inglês - Kultivi](https://app.kultivi.com/dashboard/course/ingles/lesson/introducao-e-names) - #02
 
 <h1 align="center"> Cursos Completos </h1>
+
+* [Java primeiros passos: Lógica de Programação e Algoritmos (Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/learn/lecture/11646532#overview) - 100% - [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificado%20-%20JAVA%20fundamentos.pdf)
 
 * [Intensivão de Ciência de Dados HashTag](https://www.youtube.com/watch?v=PRAk4J4IU5Q) - 100%
 
