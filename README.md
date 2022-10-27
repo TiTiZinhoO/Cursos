@@ -14,7 +14,7 @@
 
 <h1 align="center"> Cursos Completos </h1>
 
-* [Java primeiros passos: Lógica de Programação e Algoritmos (Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/learn/lecture/11646532#overview) - 100% - [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificado%20-%20JAVA%20fundamentos.pdf)
+* [Java primeiros passos: Lógica de Programação e Algoritmos (Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/learn/lecture/11646532#overview) - 100% - [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificados/JPG/certificado%20-%20JAVA%20fundamentos.jpg)
 
 * [Intensivão de Ciência de Dados HashTag](https://www.youtube.com/watch?v=PRAk4J4IU5Q) - 100%
 
@@ -32,7 +32,7 @@
 
 * [Introdução à Ciência de Dados 3.0 - 12 hora(s).](https://www.datascienceacademy.com.br/path-player?courseid=intro-ciencia-de-dados-3&unit=61082006e32fc3b2ed213fddUnit) - 100% - [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificados/JPG/Introdu%C3%A7%C3%A3o%20a%20ciencia%20de%20dadsos%203.0%20Data%20Science%20Academy_page-0001.jpg)
 
-* [Acelerador de Carreira com Power BI](https://www.youtube.com/watch?v=5n1oAbM5PYM) - 100% [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificados/JPG/Certificado%20Acelerador%20de%20carreira%20power%20bi%20-%20empowerdata.jpg)
+* [Acelerador de Carreira com Power BI](https://www.youtube.com/watch?v=5n1oAbM5PYM) - 100% - [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificados/JPG/Certificado%20Acelerador%20de%20carreira%20power%20bi%20-%20empowerdata.jpg)
 
 <h1 align="center"> Sites para estudar </h1>
 
