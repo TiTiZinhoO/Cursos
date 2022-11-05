@@ -1,6 +1,6 @@
 <h1 align="center"> Cursos em andamento </h1>
 
-* [Java COMPLETO Programação Orientada a Objetos +Projetos (Nelio Alves)](https://www.udemy.com/course/java-curso-completo/) - 0%
+* [Java COMPLETO Programação Orientada a Objetos +Projetos (Nelio Alves)](https://www.udemy.com/course/java-curso-completo/) - 30%
 
 * [Python Fundamentos Para Análise de Dados 3.0 - 60 Hora(s).](https://www.datascienceacademy.com.br/course/python-fundamentos) - 73% 
 
