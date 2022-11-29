@@ -14,6 +14,10 @@
 
 <h1 align="center"> Cursos Completos </h1>
 
+* [GESTÃO DE PROJETOS][Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificados/pdf/GEST%C3%83O%20DE%20PROJETOS%20-%20certificado.pdf)
+
+* [Modelos de Gestão][Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificados/pdf/Modelos%20de%20Gest%C3%A3o%20-%20certificado.pdf)
+
 * [A Comunicacao no Trabalho em Equipe](https://www.linkedin.com/learning/a-comunicacao-no-trabalho-em-equipe/boas-vindas?autoplay=true) - [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificados/JPG/CertificadoDeConclusao_A%20Comunicacao%20no%20Trabalho%20em%20Equipe.jpg)
 
 * [Java primeiros passos: Lógica de Programação e Algoritmos (Nelio Alves)](https://www.udemy.com/course/java-curso-logica-de-programacao/learn/lecture/11646532#overview) - 100% - [Certificado](https://github.com/TiagoMoreiraPimentel/Certificados/blob/main/certificados/JPG/certificado%20-%20JAVA%20fundamentos.jpg)
